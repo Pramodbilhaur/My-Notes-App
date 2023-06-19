@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">My Notes App</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="filter_button">Filter Button</string>
+    <string name="high">High</string>
+    <string name="medium">Medium</string>
+    <string name="low">Low</string>
+    <string name="add_notes">Add Notes</string>
+    <string name="delete">Delete</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="are_you_sure_want_to_delete_n_this_note">Are you sure want to delete\n This Note?</string>
+    <string name="search">Search</string>
+    <string name="floating_button">Floating Button</string>
+</resources>
